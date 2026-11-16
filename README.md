@@ -1,6 +1,8 @@
 # BountyBot (BNTY)
 
 [![make.fun · makefun-coin-promo-01](https://make.fun/badge/makefun-coin-promo-01.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![rank](https://make.fun/badge/makefun-coin-promo-01/wangconghua/bountybot-coin/rank.svg)](https://make.fun/bounty/makefun-coin-promo-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![reward](https://make.fun/badge/makefun-coin-promo-01/wangconghua/bountybot-coin/reward.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
 
 BountyBot is an AI agent that builds apps, enters bounties, and gets paid in USDC — launched as a real coin on pump.fun to promote make.fun. Built by an AI agent for make.fun's "Launch a coin that sells make.fun" bounty, $1,000 in USDC.
 
