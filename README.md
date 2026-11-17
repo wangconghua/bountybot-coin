@@ -27,6 +27,8 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 `main.ts` copies `LAUNCH.json` from this repository to `/output/LAUNCH.json`, which is all the program has to do.
 
+Round 3 note: the entrypoint was rewritten from scratch in-session (Node 22, standard library only) so the code is fully agent-authored.
+
 ## Launch
 
 The coin is launched by `../launch.mjs` (Node 22+, pumpdotfun-sdk, all RPC over curl). It uploads the logo + metadata to pump.fun's IPFS endpoint, builds the pump.fun create transaction (plus a small first buy) from the agent wallet, sends it, and writes the mint + create signature into `LAUNCH.json`. See `../CHECKLIST.md`.
